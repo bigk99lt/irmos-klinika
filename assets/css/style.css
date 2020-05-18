@@ -1117,27 +1117,27 @@ header .social ul li:nth-child(2) a:hover {
 }
 .interior .image_1 {
   height: 600px;
-  background-image: url(../images/reception-hor.jpg);
+  background-image: url(../images/naujos_03.2020/5.1.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 .interior .image_2 {
   height: 600px;
-  background-image: url(../images/chair-hor.jpg);
+  background-image: url(../images/naujos_03.2020/4.1.jpg);
   background-size: cover;
   background-position: 0% 80%;
   background-repeat: no-repeat;
 }
 .interior .image_3 {
   height: 600px;
-  background-image: url(../images/reception2-hor.jpg);
+  background-image: url(../images/naujos_03.2020/21.jpg);
   background-size: cover;
   background-position: center center;
 }
 .interior .image_4 {
   height: 600px;
-  background-image: url(../images/pc-hor.jpg);
+  background-image: url(../images/naujos_03.2020/83913594_116381079778202_7996214049761132544_n-crop.jpg);
   background-size: cover;
   background-position: 0 90%;
 }
@@ -1359,20 +1359,20 @@ footer .flex_container ul li a:hover {
     padding: 5px 0;
   }
   .interior .owl-carousel .image_1 {
-    height: 50vh;
-    background-image: url(../images/reception-vert.jpg);
+    height: 30vh;
+    background-image: url(../images/naujos_03.2020/5.1.jpg);
   }
   .interior .owl-carousel .image_2 {
-    height: 50vh;
-    background-image: url(../images/chair-vert.jpg);
+    height: 30vh;
+    background-image: url(../images/naujos_03.2020/4.1.jpg);
   }
   .interior .owl-carousel .image_3 {
-    height: 50vh;
-    background-image: url(../images/reception2-vert.jpg);
+    height: 30vh;
+    background-image: url(../images/naujos_03.2020/21-crop.jpg);
   }
   .interior .owl-carousel .image_4 {
-    height: 50vh;
-    background-image: url(../images/pc-vert.jpg);
+    height: 30vh;
+    background-image: url(../images/naujos_03.2020/83913594_116381079778202_7996214049761132544_n-crop.jpg);
     background-position: 0 0 0 0;
     background-repeat: no-repeat;
   }
