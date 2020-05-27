@@ -1139,7 +1139,7 @@ header .social ul li:nth-child(2) a:hover {
   height: 75vh;
   background-image: url(../images/naujos_03.2020/6.jpg);
   background-size: cover;
-  background-position: center center;
+  background-position: 50%;
   background-repeat: no-repeat;
 }
 
