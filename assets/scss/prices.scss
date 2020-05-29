@@ -36,10 +36,10 @@
             .basic {
                 display: flex;
                 flex-wrap: wrap;
+                align-items: center;
                 li {
                     width: 50%;
                     padding: 15px 0;
-                    
                 }
             }
             h3 {
@@ -49,7 +49,7 @@
                 font-weight: bold;
                 border: #0099ff solid 1px;
                 border-radius: 25px;
-                margin: 20px 300px;
+                margin: 20px 100px;
             }
             .estetic {
                 display: flex;

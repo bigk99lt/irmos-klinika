@@ -149,6 +149,9 @@ table {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 .prices .price-container .pricing .basic li {
   width: 50%;
@@ -161,7 +164,7 @@ table {
   font-weight: bold;
   border: #0099ff solid 1px;
   border-radius: 25px;
-  margin: 20px 300px;
+  margin: 20px 100px;
 }
 .prices .price-container .pricing .estetic {
   display: -webkit-box;
@@ -1139,7 +1142,7 @@ header .social ul li:nth-child(2) a:hover {
   height: 75vh;
   background-image: url(../images/naujos_03.2020/6.jpg);
   background-size: cover;
-  background-position: 50%;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
