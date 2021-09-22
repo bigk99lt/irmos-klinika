@@ -340,6 +340,76 @@ table {
   margin-bottom: 75px;
   text-transform: uppercase;
 }
+.staff .container .jarek {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 50px 0 50px 0;
+}
+.staff .container .jarek .jarek-picture {
+  width: 40%;
+  height: 60vh;
+  background-image: url(../images/staff/jarek.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-top: -30px;
+}
+.staff .container .jarek .jarek-background {
+  width: 60%;
+  text-align: center;
+  margin-right: 50px;
+}
+.staff .container .jarek .jarek-background h2 {
+  font-size: 1.7rem;
+  color: #0099ff;
+  border: solid 4px #0099ff;
+  border-radius: 25px;
+  padding: 20px 0 20px 0;
+  margin-bottom: 75px;
+}
+.staff .container .jarek .jarek-background div {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #7d625a;
+  margin-bottom: 75px;
+  text-transform: uppercase;
+}
+.staff .container .simona {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 50px 0 50px 0;
+}
+.staff .container .simona .simona-picture {
+  width: 40%;
+  height: 60vh;
+  background-image: url(../images/staff/simona.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-top: -30px;
+}
+.staff .container .simona .simona-background {
+  width: 60%;
+  text-align: center;
+  margin-right: 50px;
+}
+.staff .container .simona .simona-background h2 {
+  font-size: 1.7rem;
+  color: #0099ff;
+  border: solid 4px #0099ff;
+  border-radius: 25px;
+  padding: 20px 0 20px 0;
+  margin-bottom: 75px;
+}
+.staff .container .simona .simona-background div {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #7d625a;
+  margin-bottom: 75px;
+  text-transform: uppercase;
+}
 .staff .container .dentist {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -410,27 +480,27 @@ table {
   background-position: center center;
   margin-top: -30px;
 }
-.staff .container .donatas {
+.staff .container .algimantas {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   margin: 50px 0 50px 0;
 }
-.staff .container .donatas .donatas-picture {
+.staff .container .algimantas .algimantas-picture {
   width: 40%;
   height: 60vh;
-  background-image: url(../images/naujos_03.2020/Donatas.jpg);
+  background-image: url(../images/staff/algimantas.jpg);
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: center center;
   margin-top: -30px;
 }
-.staff .container .donatas .donatas-background {
+.staff .container .algimantas .algimantas-background {
   width: 60%;
   text-align: center;
   margin-right: 50px;
 }
-.staff .container .donatas .donatas-background h2 {
+.staff .container .algimantas .algimantas-background h2 {
   font-size: 1.7rem;
   color: #0099ff;
   border: solid 4px #0099ff;
@@ -438,7 +508,7 @@ table {
   padding: 20px 0 20px 0;
   margin-bottom: 75px;
 }
-.staff .container .donatas .donatas-background div {
+.staff .container .algimantas .algimantas-background div {
   font-size: 1.5rem;
   font-weight: bold;
   color: #7d625a;

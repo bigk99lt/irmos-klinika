@@ -48,6 +48,76 @@
             
         }
         
+        .jarek {
+            display: flex;
+            margin: 50px 0 50px 0;
+            .jarek-picture {
+                width: 40%;
+                height: 60vh;
+                background-image: url(../images/staff/jarek.jpg);
+                background-size: 80%;
+                background-repeat: no-repeat;
+                background-position: center center;
+                margin-top: -30px;
+            }
+            .jarek-background {
+                width: 60%;
+                text-align: center;
+                margin-right: 50px;
+                h2 {
+                    font-size: 1.7rem;
+                    color: #0099ff;
+                    border: solid 4px #0099ff;
+                    border-radius: 25px;
+                    padding: 20px 0 20px 0;
+                    margin-bottom: 75px;
+                }
+                div {
+                    font-size: 1.5rem;
+                    font-weight: bold;
+                    color: rgb(125, 98, 90);
+                    margin-bottom: 75px;
+                    text-transform: uppercase;
+                }
+            }
+            
+        }
+
+        .simona {
+            display: flex;
+            margin: 50px 0 50px 0;
+            .simona-picture {
+                width: 40%;
+                height: 60vh;
+                background-image: url(../images/staff/simona.jpg);
+                background-size: 80%;
+                background-repeat: no-repeat;
+                background-position: center center;
+                margin-top: -30px;
+            }
+            .simona-background {
+                width: 60%;
+                text-align: center;
+                margin-right: 50px;
+                h2 {
+                    font-size: 1.7rem;
+                    color: #0099ff;
+                    border: solid 4px #0099ff;
+                    border-radius: 25px;
+                    padding: 20px 0 20px 0;
+                    margin-bottom: 75px;
+                }
+                div {
+                    font-size: 1.5rem;
+                    font-weight: bold;
+                    color: rgb(125, 98, 90);
+                    margin-bottom: 75px;
+                    text-transform: uppercase;
+                }
+            }
+            
+        }
+
         .dentist {
             display: flex;
             margin: 50px 0 50px 0;
@@ -130,20 +200,20 @@
             }
         }
 
-        .donatas {
+        .algimantas {
             display: flex;
             margin: 50px 0 50px 0;
-            .donatas-picture {
+            .algimantas-picture {
                 width: 40%;
                 height: 60vh;
-                background-image: url(../images/naujos_03.2020/Donatas.jpg);
+                background-image: url(../images/staff/algimantas.jpg);
                 background-size: 60%;
                 background-repeat: no-repeat;
                 background-position: center center;
                 margin-top: -30px;
                 // transform: rotate(90deg);
             }
-            .donatas-background {
+            .algimantas-background {
                 width: 60%;
                 text-align: center;
                 margin-right: 50px;
@@ -165,6 +235,7 @@
             }
             
         }
+
     }
 }
 // --------------------------------------------- //
